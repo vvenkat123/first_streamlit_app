@@ -12,6 +12,6 @@ streamlit.header('Breakfast Favorites')
 
 
 streamlit.text('🥣 Omega 3 & Blueberry Oatneal')
-streamlit.text(" 🥗Kale, Spinach & Rocket Snoothie')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
 streamlit.text('🐔Hard-Bolled Free-Range Egg')
 streamlit.text('🥑🍞 Avocado Toast')
